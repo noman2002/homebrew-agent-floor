@@ -1,7 +1,7 @@
 class AgentFloor < Formula
   desc "Pixel office for Claude Code agents: one needs-you queue, approvals, replay"
-  homepage "https://github.com/noman2002/agent-floor-releases"
-  url "https://github.com/noman2002/agent-floor-releases/releases/download/v0.2.3/agent-floor-0.2.3.tar.gz"
+  homepage "https://github.com/noman2002/homebrew-agent-floor"
+  url "https://github.com/noman2002/homebrew-agent-floor/releases/download/v0.2.3/agent-floor-0.2.3.tar.gz"
   sha256 "09ea82fc489fef6e6444437a45fa0ab747b18744adda265599decfb180f61ac3"
   license :cannot_represent
 
